@@ -1,0 +1,1 @@
+GET {{baseUrl}}/testing/example/Kamil?age=12&api-version=1.0
